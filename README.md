@@ -22,12 +22,6 @@
 
 <br>
 
-## ⚙ 시스템 아키텍처
-
-![architecture](https://github.com/2024-SMHRD-IS-IOT-2/dbdbDeep/assets/11593416/1ee06d14-62b3-425f-8cd2-4ba1888b7213)
-
-<br>
-
 ## 📌 서비스 흐름도
 
 ![flow_robot](https://github.com/Mr-juhyun/home0alone/blob/master/img/3.png)
